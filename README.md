@@ -1,6 +1,8 @@
-# Fine-grained Sentiment Analysis
+# Fine-grained Sentiment Analysis WUHUUUUUUU
 
 ## Tasks
+
+Aku dpt singkatan2 ini di yutub, mungkin ga kepake tapi aspect sentiment analysis itu banyak yg mirip tekniknya sm fine grained, terus kalo emotion analysis lebih ke aspek multiclassnya
 
 - ABSA
   - ASC: Aspect Sentiment Classification
@@ -50,7 +52,9 @@
 | (2019) CDT       | 77.19/72.99 | 82.30/74.02 | 74.66/73.66 |      -      | 85.58/69.93 |
 | (2019) HGMN      | 76.67/72.22 | 82.33/73.34 | 73.70/72.89 |      -      |      -      |
 
+MAAP GA NEMU YANG TAHUN 2019 ke atas aku pake publish or perish soalnya wkwk
 
+BAKAL KU UPDATE BERKALAAAA, Malem ini ku buatin yg aspect based dulu, karena aku baru paham soal ini wkwkwk (Meskipun fine grained sebenernya sama si kyk aspect based)
 
 ------
 
@@ -452,21 +456,6 @@
   <img src="./img/DATN.png" width="500px;"/>
 </p>
 
-
-------
-
-## Projects & Competition
-
-- [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
-- [BERT-for-RRC-ABSA](https://github.com/howardhsu/BERT-for-RRC-ABSA)
-- 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛
-  - Rank 1 [[code]](https://github.com/yilifzf/BDCI_Car_2018)
-  - Rank 6 [[code]](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018)
-- 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
-  - Rank 1 [[code]](https://github.com/chenghuige/wenzheng) [[link]](https://tech.meituan.com/2019/01/25/ai-challenger-2018.html)
-  - Rank 16 [[code]](https://github.com/xueyouluo/fsauor2018)
-  - Rank 17 [[code]](https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis)
-
 ------
 
 ## DataSet
@@ -482,11 +471,16 @@
 - Web data: Amazon reviews [[data](https://snap.stanford.edu/data/web-Amazon.html)]
 - Amazon Fine Food Reviews [[kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews)]
 - SemEval ABSA
+- Cyberbullying Classification [[kaggle](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)]
+- Hatred Speech [[Kaggle](https://www.kaggle.com/code/eisgandar/twitter-sentiment-analysis-hatred-speech)]
+- Omicron Rising [[Kaggle](https://www.kaggle.com/datasets/gpreda/omicron-rising)]
+
+**Indonesia**
+
+- Indonesian Twitter Sentiment Analysis Dataset-PPKM [[Kaggle](https://www.kaggle.com/datasets/anggapurnama/twitter-dataset-ppkm)]
+- Bank BSI Ransomware Tweets - 24k Tweets [[Kaggle](https://www.kaggle.com/datasets/bashirhanafi/bank-bsi-tweets-sentiment-24k-tweets)]
+- Indonesia Twitter Comment Labeled with ITE Law [[kaggle](https://www.kaggle.com/datasets/bondanvitto/indonesia-twitter-comment-labeled-with-ite-law)]
 
 ------
 
-## Reference
-
-- [jiangqn/Aspect-Based-Sentiment-Analysis](https://github.com/jiangqn/Aspect-Based-Sentiment-Analysis)
-- [YZHANG1270/Aspect-Based-Sentiment-Analysis](https://github.com/YZHANG1270/Aspect-Based-Sentiment-Analysis)
-- [Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+Semangat AISSSSS TESISNYAAA
